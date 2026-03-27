@@ -17,7 +17,7 @@ A professional drag-and-drop Diamond Model diagramming tool for CTI analysts.
 - Delete nodes/edges with Delete key or button
 - Export SVG, PNG, JSON
 - Import JSON to restore diagrams
-- Pre-loaded Tycoon 2FA example from TR-2026-0325-001
+- Pre-loaded Tycoon 2FA example
 
 ## Run with Docker
 
@@ -64,7 +64,7 @@ Then open: http://localhost:5000
 **Version**: Diamond Model Builder V1  
 **License**: MIT
 
-This tool is built for CTI analysts to create professional threat intelligence diagrams using the Diamond Model framework.
+This tool is built for CTI analysts to create threat intelligence diagrams using the Diamond Model framework.
 
 ---
 
